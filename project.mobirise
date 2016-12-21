@@ -456,12 +456,12 @@
                 "active": false
               }
             ],
-            "spacing": "0",
+            "spacing": "1",
             "showText": false,
             "filter": false,
             "bgColor": "#efefef",
             "filterBgColor": false,
-            "fullWidth": false,
+            "fullWidth": true,
             "showBullets": false
           },
           "_anchor": "gallery2-t",
