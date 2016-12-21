@@ -507,9 +507,9 @@
             "showSubTitle": true
           },
           "title": "<span style=\"font-weight: normal;\">KONTAKT</span>",
-          "subtitle": "<br><span style=\"font-style: normal;\">Wir freuen uns über Eure Nachricht - auch wenn <br>wir vielleicht nicht sofort antworten können.</span>",
+          "subtitle": "<br><span style=\"font-style: normal;\">Wir freuen uns über Eure Nachricht - auch wenn <br>wir vielleicht nicht immer sofort antworten können.</span>",
           "form": {
-            "action": "grevemobile@live.com",
+            "action": "lagima@live.com",
             "alerts": {
               "success": "Merci!"
             },
