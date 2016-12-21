@@ -200,10 +200,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3-2000x2666-60-800x1066-0.jpg",
-                "image": "@PROJECT_PATH@/assets/images/3-2000x2666-60.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-2000x2666-68-800x1066-81.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3-2000x2666-68.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -223,7 +223,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/daten-2000x1505-29-800x602-75.jpg",
                 "image": "@PROJECT_PATH@/assets/images/daten-2000x1505-29.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
