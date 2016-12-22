@@ -43,7 +43,7 @@
           "_anchor": "header2-1",
           "_params": {
             "imageSize": "41",
-            "parallax": false,
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1432059964050-d4eba2ef368a-2000x1125-41.jpg",
             "bgColor": "#2e2e2e",
@@ -118,7 +118,7 @@
           "_name": "header1",
           "_anchor": "header1-0",
           "_params": {
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
             "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/lo12-2000x1237-1.jpg",
@@ -158,7 +158,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p>Copyright (c) 2016&nbsp;&nbsp;Marti &amp; Ataraz</p>",
+          "text": "<p>Copyright (c) 2016&nbsp;&nbsp;Marti &amp; Atarac</p>",
           "_styles": {
             "P": {
               "text-align": "center"
@@ -604,7 +604,7 @@
           },
           "text1": "<br>Lavinia &amp; Aleksandar<br>+ Lilija Rosa Jagoda&nbsp;<br>+ Mina Luna Malina",
           "text2": "<br>E-Mail: &nbsp;lagima@live.com<br>Tel. (L): +41 (0)79 387 10 98<br>Tel. (A): +41 (0)76 524 25 85<br>",
-          "text3": "<br>L. Marti &amp; A. Altarac<br>Streulistrasse 17<br>CH-8032 Zürich<br>",
+          "text3": "<br>L. Marti &amp; A. Altarac<br>Streulistrasse 81<br>CH-8032 Zürich<br>",
           "_styles": {
             "P": {
               "text-align": "left",
